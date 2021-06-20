@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737196603112",
+    "project_id": "userrole-360b8",
+    "storage_bucket": "userrole-360b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737196603112:android:b5d57d66ef3a8dcdce3b5d",
+        "android_client_info": {
+          "package_name": "com.example.userrole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737196603112-f6c8j701dlhqcu1pcec8if2isgipldcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1WG5hLJE7xA5HSyj7qyetUURDfXK4f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737196603112-f6c8j701dlhqcu1pcec8if2isgipldcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
